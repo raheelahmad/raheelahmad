@@ -1,6 +1,11 @@
 ## Hello 👋
 
-I am an iOS engineer, currently working as a Staff Engineer at @calm.
+I am an iOS engineer, currently working as a Staff Engineer [@calm](https://github.com/calm/).
+Besides iOS, I enjoy working on graphics and backend.
+
+![Muziqi logo](https://sakunlabs.com/images/muziqi-icon.png)
+My (major) side project currently is [Muziqi](http://sakunlabs.com/muziqi), and iOS audio player for those who own their music.
+
 
 <!--
 **raheelahmad/raheelahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
