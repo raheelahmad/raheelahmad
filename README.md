@@ -5,8 +5,9 @@ Besides iOS, I enjoy working on graphics and backend.
 
 ---
 
-<img src="https://sakunlabs.com/images/muziqi-icon.png" width=200 />
-My (major) side project currently is [Muziqi](http://sakunlabs.com/muziqi), and iOS audio player for those who own their music.
+<img src="https://sakunlabs.com/images/muziqi-icon.png" width=160 />
+
+My main side project currently is [Muziqi](http://sakunlabs.com/muziqi), an iOS audio player for those who own their music.
 
 
 <!--
