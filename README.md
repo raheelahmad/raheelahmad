@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am an iOS engineer, currently working as an iOS Engineer [@DoordDash](https://github.com/cdoordash/).
+I am an iOS engineer, currently working as an iOS Engineer [@DoordDash](https://github.com/doordash/).
 Besides iOS, I enjoy working on graphics and backend.
 
 ---
